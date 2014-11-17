@@ -1,0 +1,17 @@
+{
+    "name": "navi/project",
+    "description": "The PHP Framework.",
+    "keywords": ["framework", "navi", "project"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Le Son",
+            "email": "outshelp@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+		"navi/framework": "*"
+    },
+    "minimum-stability": "dev"
+}

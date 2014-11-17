@@ -13,5 +13,10 @@
         "php": ">=5.4.0",
 		"navi/framework": "*"
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
     "minimum-stability": "dev"
 }
